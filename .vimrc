@@ -32,3 +32,4 @@ autocmd User Node
     \   nmap <buffer> <C-w><C-f> <Plug>NodeVSplitGotoFile |
     \ endif
 
+map <C-n> :NERDTreeToggle<CR>
