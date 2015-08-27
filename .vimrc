@@ -8,6 +8,8 @@ set expandtab     " insert spaces when hitting TABs
 set softtabstop=4 " insert/delete 4 spaces when hitting a TAB/BACKSPACE
 set smartindent
 set autoindent
+set term=xterm-256color
+set termencoding=utf-8
 
 " Remove trailing spaces
 autocmd BufWritePre *.(py|js) :%s/\s\+$//e
