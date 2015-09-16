@@ -12,4 +12,5 @@ git clone https://github.com/groenewege/vim-less && \
 git clone git://github.com/tpope/vim-sensible.git && \
 git clone https://github.com/wookiehangover/jshint.vim.git ~/.vim/bundle/jshint.vim && \
 git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle && \
+git clone https://github.com/bling/vim-airline ~/.vim/bundle/vim-airline && \
 popd
